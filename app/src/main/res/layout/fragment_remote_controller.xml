@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_remote_controller"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.a47989768s.m05_remote_repos.remote_controllerFragment"
+    tools:showIn="@layout/activity_remote_controller">
+
+</android.support.constraint.ConstraintLayout>
